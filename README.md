@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anne Nwaokolo
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Tableau
-- 💞️ I’m looking to collaborate on any Data Analysis Project
+- 💞️ I’m looking to collaborate on any Data Analysis Projects
 - 📫 How to reach me aanwaokolo@gmail.com
 - +2348027205199
 
