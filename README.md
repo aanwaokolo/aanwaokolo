@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aanwaokolo
+- 👋 Hi, I’m Anne Nwaokolo
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on any Data Analysis Project
