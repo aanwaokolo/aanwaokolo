@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anne Awele Nwaokolo
 
-I'm a passionate Data & Healthcare Analyst with a strong background in data storytelling, healthcare intelligence, and process improvement. With experience across NHS Trusts and health tech, I specialize in transforming raw data into actionable insights that support better decision-making in health and care.
+I'm a passionate Data & Healthcare Analyst with a strong background in data storytelling, healthcare intelligence, and process improvement. With experience across NHS Trusts and health tech, With an MSc In Data Aanlytics with distinction, I specialize in transforming raw data into actionable insights that support better decision-making in health and care.
 
 ## 👀 What I’m Interested In
 - Data Analytics & Visualization
