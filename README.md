@@ -19,9 +19,8 @@ I'm a passionate Data & Healthcare Analyst with a strong background in data stor
 - Public speaking or mentoring opportunities
 - Community-driven data initiatives and women-in-tech causes
 
-## 📫 How to Reach Me
-- Email: anneanwaokolo@gmail.com 
-- LinkedIn: [/www.linkedin.com/in/anne-awele-nwaokolo-msc-pmp-mbcs-a468b0a9/]([/www.linkedin.com/in/anne-awele-nwaokolo-msc-pmp-mbcs-a468b0a9/)/)  
+- Email: anneanwaokolo@gmail.com  
+- LinkedIn: [Anne Awele Nwaokolo](https://www.linkedin.com/in/anne-awele-nwaokolo-msc-pmp-mbcs-a468b0a9/)  
 - Instagram: [@theannealyst](https://www.instagram.com/theannealyst/)
 
 ---
